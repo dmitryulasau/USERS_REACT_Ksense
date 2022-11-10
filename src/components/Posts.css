@@ -1,0 +1,19 @@
+.post {
+  margin: auto;
+  padding: 10px;
+  max-width: 400px;
+  background-color: #edf2ff;
+  /* display: none; */
+  border-radius: 8px;
+  margin-bottom: 8px;
+
+  border-bottom: 3px solid #ced4da;
+
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.author {
+  font-size: 12px;
+  color: #495057;
+  margin-bottom: 8px;
+}

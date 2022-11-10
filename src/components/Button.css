@@ -1,0 +1,18 @@
+.btn {
+  border: none;
+  padding: 6px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  min-width: 130px;
+  font-weight: 700;
+  background-color: #f783ac;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #a61e4d;
+}
+
+.btn:active {
+  transform: translate(-1px, 2px);
+}

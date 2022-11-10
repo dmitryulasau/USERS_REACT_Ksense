@@ -1,0 +1,16 @@
+.user-list {
+  margin: auto;
+  margin-bottom: 10px;
+  max-width: 360px;
+  height: 80px;
+  border-radius: 8px;
+  list-style: none;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  font-weight: 700;
+  background-color: #f8f0fc;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
